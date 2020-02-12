@@ -22,7 +22,7 @@
         <h3 class="text-center text-white">Hello Project</h3>
         <div class="row mt-5">
             <div class="col-md-4">
-                <div class="card shadow">
+                <div class="card shadow animated slideInLeft">
                 <img src="{{ url('frontend/img/main.jpeg') }}" alt="image placeholder" id="imgplace" class="img-fluid">
                     <div class="card-body">
                         <h5>Card Title</h5>
@@ -34,7 +34,7 @@
             </div>
 
             <div class="col-md-4">
-                <div class="card shadow">
+                <div class="card shadow animated slideInLeft">
                 <img src="{{ url('frontend/img/main.jpeg') }}" alt="image placeholder" id="imgplace" class="img-fluid">
                     <div class="card-body">
                         <h5>Card Title</h5>
@@ -47,7 +47,7 @@
 
 
             <div class="col-md-4">
-                <div class="card shadow">
+                <div class="card shadow animated slideInLeft">
                 <img src="{{ url('frontend/img/main.jpeg') }}" alt="image placeholder" id="imgplace" class="img-fluid">
                     <div class="card-body">
                         <h5>Card Title</h5>
