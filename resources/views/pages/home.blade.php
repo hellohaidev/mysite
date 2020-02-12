@@ -58,6 +58,45 @@
                 </div>
             </div>
         </div>
+
+        <div class="row mt-5 mb-3">
+            <div class="col-md-4">
+                <div class="card shadow animated slideInLeft">
+                <img src="{{ url('frontend/img/main.jpeg') }}" alt="image placeholder" id="imgplace" class="img-fluid">
+                    <div class="card-body">
+                        <h5>Card Title</h5>
+                        <p>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow animated slideInLeft">
+                <img src="{{ url('frontend/img/main.jpeg') }}" alt="image placeholder" id="imgplace" class="img-fluid">
+                    <div class="card-body">
+                        <h5>Card Title</h5>
+                        <p>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-4">
+                <div class="card shadow animated slideInLeft">
+                <img src="{{ url('frontend/img/main.jpeg') }}" alt="image placeholder" id="imgplace" class="img-fluid">
+                    <div class="card-body">
+                        <h5>Card Title</h5>
+                        <p>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
